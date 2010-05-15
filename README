@@ -1,0 +1,13 @@
+Usage : ./electron [-n Fe]/[26]
+
+
+$ ./electron -n Fe
+Periodic Table: Iron (Fe) Z=26, A=55.845
+Electron configuration
+ 1s2 2s2 2p6 3s2 3p6 4s2 3d6
+Valence electrons: -4
+Whole Shell: 2,8,14,2
+
+
+
+Hmm… good enough.
